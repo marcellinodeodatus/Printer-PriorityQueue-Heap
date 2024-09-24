@@ -1,0 +1,18 @@
+2
+10 
+3 Program2.doc 10 5
+6 Resume.doc 5 2
+7 FantasyFootball.xls 4 20
+15 Sudoku.java 8 10
+17 PhoneBook.xls 8 20
+30 Program3.doc 10 6
+31 Book.doc 1 200
+100 Grades.xls 3 5
+101 Recitation2.doc 7 2
+1000 directions.txt 9 1
+5
+215 a.txt 1 100
+231 b.txt 1 200
+244 c.txt 1 100
+312 d.txt 1 100
+1000 e.txt 1 500
